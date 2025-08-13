@@ -1,0 +1,9 @@
+dist
+node_modules
+coverage
+.env.local
+.env.production.local
+.env.development.local
+*.md
+.bmad-core/
+.claude/

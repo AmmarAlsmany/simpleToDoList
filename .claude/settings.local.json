@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(md-tree:*)",
+      "Bash(mkdir:*)",
+      "Bash(node:*)",
+      "Bash(npm:*)",
+      "Bash(xcopy:*)",
+      "Bash(rmdir:*)",
+      "Bash(powershell:*)",
+      "Bash(npx husky init:*)",
+      "Bash(npx tailwindcss init:*)",
+      "Bash(rm:*)",
+      "Bash(git add:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
